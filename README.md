@@ -1,4 +1,4 @@
 # Ratebeer Web Application
 
-* [Heroku page](https://agile-badlands-69168.herokuapp.com/breweries)
-* [![Build Status](https://travis-ci.org/lesktimo/rorratebeer.png)](https://travis-ci.org/lesktimo/rorratebeer)
+* [Heroku page](http://rate-a-beer.herokuapp.com)
+* [![Build Status](https://travis-ci.org/lesktimo/ratebeer.png)](https://travis-ci.org/lesktimo/ratebeer)
